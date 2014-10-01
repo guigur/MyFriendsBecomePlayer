@@ -1,0 +1,21 @@
+﻿MyFriendsBecomePlayer:
+    Phrase_intro1: Bonjour et bienvenue sur MyFriendsV2
+    Phrase_intro2: Ce test vous permettra de devenir joueur
+    Nombre_de_questions : 2
+    Position_pour_tp:
+       X: 0.0
+       Y: 100.0
+       Z: 0.0
+    Quiz:
+       Q1:
+          titre: titre de la question 1
+          r1: reponse 1
+          r2: reponse 2
+          c: 1
+       Q2:
+          titre: titre de la question 2
+          r1: reponse 1
+          r2: reponse 2
+          c: 1
+    Succes: say gg
+    Fail: say too bad

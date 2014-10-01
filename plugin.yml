@@ -1,0 +1,17 @@
+﻿name: MyFriendsBecomePlayer
+main: fr.guigur.src.MyFriendsBecomePlayer
+version: 0.1
+author: guigur
+commands:
+    quiz:
+        description: Permet a un Visiteur de devenir Joueur
+        usage: /quiz
+    1:
+        description: Permet de répondre au choix 1 dans le questionaire pour devenir Joueur
+        usage: /1
+    2:
+        description: Permet de répondre au choix 2 dans le questionaire pour devenir Joueur
+        usage: /2
+    quiz_define:
+        description: op
+        usage: /quiz_define
